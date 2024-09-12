@@ -7,7 +7,8 @@ ejemplos de uso de funciones w3schools
 ## Ejemplo de operaciones
 - ![image](https://github.com/user-attachments/assets/3a16ec9c-4ce2-4b2b-9e01-fda8d8931e38)
 - resultado
-- ![image](https://github.com/user-attachments/assets/1ab3d4d7-e804-47b8-80ac-6cdbdcc37214)
+- ![image](https://github.com/user-attachments/assets/cd472ac5-a1d1-4e9a-a1e3-8cbd34b8b699)
+
 
 
 
